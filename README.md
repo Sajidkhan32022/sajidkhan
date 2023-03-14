@@ -6,9 +6,16 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.*
 <a href="https://www.linkedin.com/in/devsajidkhan/">
   <svg width="24px" height="24px" viewBox="0 0 24 24">
-    <path fill="red" d="M20.5,0h-17C2.2,0,2,0.2,2,0.5v17c0,0.3,0.2,0.5,0.5,0.5h17c0.3,0,0.5-0.2,0.5-0.5V0.5C21,0.2,20.8,0,20.5,0z M7.8,18.3H4.8V7.4h3V18.3z M6,6.4c-1.1,0-2-0.9-2-2s0.9-2,2-2c1.1,0,2,0.9,2,2S7.1,6.4,6,6.4z"/>
+    <use xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#linkedin" />
   </svg>
 </a>
+
+<style>
+  #linkedin {
+    fill: red;
+  }
+</style>
+
 
 [![Sajid GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devsajidkhan&theme=blue-green)](https://github.com/devsajidkhan)
 [![Sajid GitHub stats](https://github-readme-stats.vercel.app/api?username=devsajidkhan&show_icons=true&theme=blue-green&count_private=true)](https://github.com/devsajidkhan)
