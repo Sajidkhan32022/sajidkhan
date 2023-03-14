@@ -10,4 +10,4 @@
 
 [![Sajid GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devsajidkhan&theme=blue-green)](https://github.com/devsajidkhan)
 [![Sajid GitHub stats](https://github-readme-stats.vercel.app/api?username=devsajidkhan&show_icons=true&theme=blue-green&count_private=true)](https://github.com/devsajidkhan)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devsajidkhana&repo=github-readme-stats)](https://github.com/devsajidkhan/github-readme-stats)
