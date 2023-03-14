@@ -9,4 +9,5 @@
 </a>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devsajidkhan&theme=blue-green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsajidkhan)](https://github.com/anuraghazra/github-readme-stats)
 
