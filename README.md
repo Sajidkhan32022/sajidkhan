@@ -1,5 +1,5 @@
 
-- <div style="float:right; padding: 20px;">
+<div style="float:right; padding: 20px;">
   <img src="https://your-image-url.com" alt="your image" width="200"/>
   <h3>🔭 I'm currently working on...</h3>
   <p>Data Science and Web Development</p>
