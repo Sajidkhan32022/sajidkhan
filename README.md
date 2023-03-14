@@ -9,6 +9,5 @@
 </a>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devsajidkhan&theme=blue-green)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsajidkhan)](https://github.com/devsajidkhan)
-![Sajid GitHub stats](https://github-readme-stats.vercel.app/api?username=devsajidkhan&show_icons=true&theme=radical)
+[![Sajid GitHub stats](https://github-readme-stats.vercel.app/api?username=devsajidkhan&show_icons=true&theme=radical)](https://github.com/devsajidkhan)
 
