@@ -8,5 +8,5 @@
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 [![Sajid GitHub stats](https://github-readme-stats.vercel.app/api?username=devsajidkhan&show_icons=true&theme=blue-green&count_private=true)]
-[![Sajid GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devsajidkhan&theme=blue-green&layout=compact)](https://github.com/devsajidkhan)
+[![Sajid GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devsajidkhan&langs_count=8&theme=blue-green&layout=compact)](https://github.com/devsajidkhan)
 [![Sajid GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=devsajidkhan&theme=blue-green&count_private=true)](https://github.com/devsajidkhan)
