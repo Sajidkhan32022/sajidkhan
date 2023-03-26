@@ -10,4 +10,4 @@
 [![Sajid GitHub stats](https://github-readme-stats.vercel.app/api?username=devsajidkhan&show_icons=true&theme=blue-green&count_private=true)]
 [![Sajid GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devsajidkhan&langs_count=10&theme=blue-green&layout=compact)](https://github.com/devsajidkhan)
 [![Sajid GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=devsajidkhan&theme=blue-green&count_private=true)](https://github.com/devsajidkhan)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devsajidkhan)]([https://github.com/anuraghazra](https://github.com/devsajidkhan)/github-readme-stats)
+[![sajid wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devsajidkhan)]((https://github.com/devsajidkhan/github-readme-stats)
